@@ -1,8 +1,8 @@
 # Hey There! <img src="assets/wave.gif" width="50px">
 
-I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into magic spells, creating wonders in the digital realm!
+I am <strong>Tony<strong>
 
-- 📫 How to reach me *raghidkhoury2@gmail.com*
+- 📫 How to reach me *toni123bousleiman@gmail.com*
 - Currently working on a SE project
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
